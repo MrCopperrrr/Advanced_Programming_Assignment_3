@@ -1,0 +1,13 @@
+BEGIN
+INSERT ag string
+RPRINT
+INSERT ah number
+BEGIN
+INSERT ai string
+RPRINT
+END
+INSERT aj number
+RPRINT
+END
+INSERT ak string
+RPRINT

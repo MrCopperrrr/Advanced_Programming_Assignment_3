@@ -1,0 +1,10 @@
+BEGIN
+INSERT x number
+BEGIN
+INSERT x string
+INSERT y number
+END
+INSERT y string
+END
+INSERT x string
+END

@@ -1,0 +1,1 @@
+Invalid: ASSIGN x -10i+10

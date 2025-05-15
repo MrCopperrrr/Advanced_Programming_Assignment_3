@@ -1,0 +1,11 @@
+ASSIGN v @@@
+INSERT o string
+ASSIGN o 'a'
+INSERT m string
+ASSIGN m 38425
+INSERT t number
+INSERT u string
+ASSIGN o 'v'
+ASSIGN u '()'
+INSERT y string
+ASSIGN y 'z'

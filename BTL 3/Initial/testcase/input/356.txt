@@ -1,0 +1,2 @@
+INSERT a string
+ASSIGN x eren@yeager123~

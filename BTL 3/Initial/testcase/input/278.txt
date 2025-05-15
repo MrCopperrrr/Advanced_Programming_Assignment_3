@@ -1,0 +1,3 @@
+INSERT y string
+INSERT x string
+ASSIGN y 'cscNJhc'

@@ -1,0 +1,13 @@
+BEGIN
+BEGIN
+BEGIN
+INSERT a string
+LOOKUP a
+END
+INSERT a number
+LOOKUP a
+END
+INSERT a string
+LOOKUP a
+END
+INSERT a number

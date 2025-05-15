@@ -1,0 +1,11 @@
+BEGIN
+INSERT a string
+BEGIN
+INSERT b string
+BEGIN
+INSERT a number
+END
+INSERT b number
+END
+INSERT c string
+END

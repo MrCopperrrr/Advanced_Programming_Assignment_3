@@ -1,0 +1,20 @@
+INSERT x number
+INSERT y string
+LOOKUP x
+LOOKUP y
+BEGIN
+INSERT z string
+LOOKUP z
+BEGIN
+INSERT m number
+LOOKUP m
+LOOKUP z
+LOOKUP y
+END
+INSERT n string
+LOOKUP n
+LOOKUP x
+END
+INSERT o number
+LOOKUP o
+LOOKUP x

@@ -1,0 +1,10 @@
+success
+q//0
+success
+r//1 q//0
+success
+s//2 r//1 q//0
+success
+t//1 r//1 q//0
+success
+u//0 q//0

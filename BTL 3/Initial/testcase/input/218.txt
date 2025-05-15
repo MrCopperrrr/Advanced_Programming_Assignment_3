@@ -1,0 +1,7 @@
+INSERT y string
+INSERT u string
+INSERT y number
+INSERT t number
+INSERT z string
+INSERT z string
+INSERT z number

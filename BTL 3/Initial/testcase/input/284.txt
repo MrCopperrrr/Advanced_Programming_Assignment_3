@@ -1,0 +1,12 @@
+ASSIGN o {}
+INSERT m number
+INSERT x number
+INSERT b number
+INSERT v string
+ASSIGN b a
+ASSIGN o ()
+ASSIGN y hello!
+ASSIGN v m
+ASSIGN p 538509
+INSERT b string
+ASSIGN c 123abc$

@@ -1,0 +1,10 @@
+INSERT m number
+INSERT n number
+INSERT x number
+INSERT p number
+INSERT x number
+INSERT u string
+INSERT v string
+INSERT m number
+INSERT y number
+INSERT t number

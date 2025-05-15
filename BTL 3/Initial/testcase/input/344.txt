@@ -1,0 +1,6 @@
+INSERT a number
+BEGIN
+INSERT b string
+PRINT
+RPRINT
+END

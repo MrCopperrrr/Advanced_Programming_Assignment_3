@@ -1,0 +1,2 @@
+INSERT x string
+ASSIGN x 'z2ni9a4'

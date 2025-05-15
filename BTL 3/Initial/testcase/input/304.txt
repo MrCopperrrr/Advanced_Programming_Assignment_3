@@ -1,0 +1,11 @@
+BEGIN
+INSERT r string
+PRINT
+BEGIN
+INSERT s number
+PRINT
+INSERT t string
+END
+PRINT
+END
+PRINT

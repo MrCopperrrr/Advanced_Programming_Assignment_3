@@ -1,0 +1,9 @@
+INSERT p number
+INSERT n number
+INSERT x number
+INSERT x number
+INSERT u string
+INSERT u number
+INSERT u number
+INSERT o number
+INSERT n string

@@ -1,0 +1,18 @@
+BEGIN
+INSERT a string
+PRINT
+BEGIN
+INSERT b number
+PRINT
+BEGIN
+INSERT c string
+PRINT
+END
+INSERT d number
+PRINT
+END
+INSERT e string
+PRINT
+END
+INSERT f number
+PRINT

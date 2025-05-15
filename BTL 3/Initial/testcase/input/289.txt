@@ -1,0 +1,11 @@
+INSERT z string
+INSERT u string
+INSERT b number
+ASSIGN b 583850
+INSERT v string
+INSERT p number
+ASSIGN x 168943
+INSERT b string
+INSERT z string
+INSERT o number
+INSERT m number

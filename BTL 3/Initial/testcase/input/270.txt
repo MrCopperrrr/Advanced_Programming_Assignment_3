@@ -1,0 +1,3 @@
+INSERT p string
+INSERT m string
+ASSIGN p 'ym'

@@ -1,0 +1,3 @@
+INSERT t string
+INSERT t number
+ASSIGN t b

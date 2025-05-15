@@ -1,0 +1,14 @@
+INSERT x number
+PRINT
+BEGIN
+INSERT y string
+PRINT
+BEGIN
+INSERT z string
+PRINT
+END
+INSERT w number
+PRINT
+END
+INSERT v string
+PRINT

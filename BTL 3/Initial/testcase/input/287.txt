@@ -1,0 +1,12 @@
+ASSIGN u 25472
+ASSIGN t ()
+ASSIGN t u
+ASSIGN c p
+ASSIGN p 698222
+ASSIGN t @@@
+ASSIGN u 984942
+INSERT v string
+ASSIGN c m
+ASSIGN t []
+ASSIGN p {}
+ASSIGN a hello!

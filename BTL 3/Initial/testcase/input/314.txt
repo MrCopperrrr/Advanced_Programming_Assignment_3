@@ -1,0 +1,14 @@
+INSERT q number
+RPRINT
+BEGIN
+INSERT r string
+RPRINT
+BEGIN
+INSERT s string
+RPRINT
+END
+INSERT t number
+RPRINT
+END
+INSERT u string
+RPRINT

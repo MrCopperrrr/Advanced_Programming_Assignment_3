@@ -1,0 +1,18 @@
+BEGIN
+INSERT ap string
+RPRINT
+BEGIN
+INSERT aq number
+RPRINT
+BEGIN
+INSERT ar string
+RPRINT
+END
+INSERT as number
+RPRINT
+END
+INSERT at string
+RPRINT
+END
+INSERT au number
+RPRINT

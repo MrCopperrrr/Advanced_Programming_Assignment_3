@@ -1,0 +1,8 @@
+BEGIN
+INSERT a string
+BEGIN
+INSERT a number
+PRINT
+END
+PRINT
+END

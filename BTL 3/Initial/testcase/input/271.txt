@@ -1,0 +1,3 @@
+INSERT c string
+INSERT a number
+ASSIGN c 'p'

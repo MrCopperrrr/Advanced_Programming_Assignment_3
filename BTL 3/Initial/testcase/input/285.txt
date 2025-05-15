@@ -1,0 +1,10 @@
+ASSIGN t []
+ASSIGN x 282427
+INSERT n number
+INSERT z string
+INSERT p string
+INSERT u number
+INSERT b string
+ASSIGN b 235763
+ASSIGN x hello!
+ASSIGN z 45788

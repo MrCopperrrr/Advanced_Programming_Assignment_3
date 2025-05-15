@@ -1,0 +1,12 @@
+success
+g//1
+success
+g//1 h//2
+success
+g//1 h//2 i//3
+success
+g//1 h//2 j//2
+success
+g//1 k//1
+success
+l//0

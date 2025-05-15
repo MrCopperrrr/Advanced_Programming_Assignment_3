@@ -1,0 +1,19 @@
+INSERT p number
+LOOKUP p
+BEGIN
+INSERT p string
+LOOKUP p
+BEGIN
+INSERT q string
+LOOKUP p
+LOOKUP q
+END
+INSERT r number
+LOOKUP q
+LOOKUP r
+BEGIN
+INSERT s number
+LOOKUP r
+LOOKUP s
+END
+END

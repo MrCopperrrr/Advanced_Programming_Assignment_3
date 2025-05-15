@@ -1,0 +1,8 @@
+INSERT o string
+INSERT c number
+INSERT n number
+INSERT v string
+INSERT p string
+INSERT c number
+INSERT p number
+INSERT v number

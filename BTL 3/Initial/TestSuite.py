@@ -1,16 +1,16 @@
-# From MrCopperrrr
 import unittest
 from TestUtils import TestUtils
-from SymbolTable import simulate # import để debug print(simulate(input))
-
 
 class TestSymbolTable(unittest.TestCase):
 
-    def test_1(self):
-        input = ["INSERT a number"] 
+    def test_1(self):  # Đổi tên của test VD: test_1234, test_24082005
+        input = ["INSERT a number"] # có thể đổi input nhưng mà phải hiểu thì đổi nha
         expected = ["success"]
-        self.assertTrue(TestUtils.check(input, expected, 101))
-
+        self.assertTrue(TestUtils.check(input, expected, 101))   # Đổi số phía cuối này giống số trong tên testcase VD: 1234, 24082005
+                                                                # Số phía cuối này dùng để tìm input, expect, solution(output của pzan) trong folder testcase 
+    # Đảo thứ tự các test cũng được 
+    # Cách chạy: python main.py
+    
     def test_2(self):
         input = ["INSERT a number", 
                 "INSERT b string"
@@ -2118,4 +2118,61 @@ class TestSymbolTable(unittest.TestCase):
             input = ["INSERT a number", "PRINT", "RPRINT"]
             expected = ["success", "a//0", "a//0"]
             self.assertTrue(TestUtils.check(input, expected, 353))
+    
+    def test_254(self):
+            input = ["INSERT a number", 
+                     "ASSIGN a 1.1"]
+            expected = ["Invalid: ASSIGN a 1.1"]
+            self.assertTrue(TestUtils.check(input, expected, 354))
 
+    def test_255(self):
+            input = ["INSERT x string", "ASSIGN x ''"]
+            expected = ["success", "success"]
+            self.assertTrue(TestUtils.check(input, expected, 355))
+
+    def test_256(self):
+            input = ["INSERT a string", 
+                     "ASSIGN x eren@yeager123~"]
+            expected = ["Invalid: ASSIGN x eren@yeager123~"]
+            self.assertTrue(TestUtils.check(input, expected, 356))
+
+    def test_257(self):
+            input = ["INSERT x string", "ASSIGN x string"]
+            expected = ["Undeclared: ASSIGN x string"]
+            self.assertTrue(TestUtils.check(input, expected, 357))
+
+    def test_258(self):
+            input = ["INSERT 1a string"]
+            expected = ["Invalid: INSERT 1a string"]
+            self.assertTrue(TestUtils.check(input, expected, 358))
+
+    def test_259(self):
+            input = ["INSERT 1a float"]
+            expected = ["Invalid: INSERT 1a float"]
+            self.assertTrue(TestUtils.check(input, expected, 359))
+
+    def test_260(self):
+            input = ["INSERT x string", "ASSIGN x abc"]
+            expected = ["Undeclared: ASSIGN x abc"]
+            self.assertTrue(TestUtils.check(input, expected, 360))
+
+    def test_261(self):
+            input = ["insert x string", "ASSIGN x 'abc'"]
+            expected = ["Invalid: insert x string"]
+            self.assertTrue(TestUtils.check(input, expected, 361))
+
+    def test_262(self):
+            input = ["INSERT x"]
+            expected = ["Invalid: INSERT x"]
+            self.assertTrue(TestUtils.check(input, expected, 362))
+
+    def test_263(self):
+            input = ["foo x"]
+            expected = ["Invalid: foo x"]
+            self.assertTrue(TestUtils.check(input, expected, 363))
+
+    def test_264(self):
+            input = ["FOO x string"]
+            expected = ["Invalid: FOO x string"]
+            self.assertTrue(TestUtils.check(input, expected, 364))
+    

@@ -1,0 +1,28 @@
+INSERT b string
+BEGIN
+LOOKUP b
+INSERT v number
+LOOKUP b
+LOOKUP v
+END
+BEGIN
+BEGIN
+INSERT m number
+LOOKUP m
+LOOKUP v
+END
+INSERT t string
+INSERT z string
+LOOKUP m
+LOOKUP t
+END
+INSERT a string
+BEGIN
+INSERT p string
+LOOKUP t
+LOOKUP v
+INSERT o number
+END
+INSERT y string
+LOOKUP z
+LOOKUP o

@@ -1,0 +1,3 @@
+INSERT t number
+INSERT p string
+ASSIGN t 614951

@@ -1,0 +1,11 @@
+INSERT p number
+BEGIN
+INSERT p string
+BEGIN
+INSERT q string
+END
+INSERT r number
+BEGIN
+INSERT s number
+END
+END

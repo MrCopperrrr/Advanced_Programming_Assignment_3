@@ -1,0 +1,19 @@
+INSERT a string
+BEGIN
+INSERT b number
+LOOKUP b
+BEGIN
+INSERT c string
+LOOKUP a
+LOOKUP b
+LOOKUP c
+END
+INSERT d number
+LOOKUP d
+LOOKUP c
+BEGIN
+INSERT e string
+LOOKUP d
+LOOKUP e
+END
+END

@@ -1,0 +1,14 @@
+INSERT p string
+ASSIGN v 420036
+ASSIGN c {}
+ASSIGN p ()
+INSERT y string
+INSERT p number
+INSERT x number
+INSERT p number
+INSERT b number
+INSERT b string
+INSERT z string
+ASSIGN m 1.2.3
+ASSIGN c #$
+INSERT n string

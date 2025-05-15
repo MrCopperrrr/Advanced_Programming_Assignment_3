@@ -1,0 +1,14 @@
+INSERT m number
+PRINT
+BEGIN
+INSERT n string
+PRINT
+BEGIN
+INSERT o string
+PRINT
+END
+INSERT p number
+PRINT
+END
+INSERT q string
+PRINT

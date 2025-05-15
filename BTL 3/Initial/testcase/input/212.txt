@@ -1,0 +1,7 @@
+INSERT p number
+INSERT p string
+INSERT z number
+INSERT o number
+INSERT y string
+INSERT c string
+INSERT z number

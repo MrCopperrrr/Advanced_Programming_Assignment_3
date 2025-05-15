@@ -1,0 +1,13 @@
+INSERT u number
+PRINT
+BEGIN
+INSERT v string
+PRINT
+INSERT w number
+BEGIN
+INSERT x string
+PRINT
+END
+PRINT
+END
+PRINT

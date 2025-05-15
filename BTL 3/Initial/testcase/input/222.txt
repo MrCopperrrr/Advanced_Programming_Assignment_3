@@ -1,0 +1,11 @@
+BEGIN
+INSERT m string
+BEGIN
+INSERT m string
+END
+INSERT m number
+BEGIN
+INSERT m string
+END
+END
+INSERT m number

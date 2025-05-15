@@ -1,0 +1,10 @@
+success
+ab//0
+success
+ac//1 ab//0
+success
+ad//2 ac//1 ab//0
+success
+ae//1 ac//1 ab//0
+success
+af//0 ab//0

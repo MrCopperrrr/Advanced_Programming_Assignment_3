@@ -1,0 +1,12 @@
+success
+ap//1
+success
+aq//2 ap//1
+success
+ar//3 aq//2 ap//1
+success
+as//2 aq//2 ap//1
+success
+at//1 ap//1
+success
+au//0

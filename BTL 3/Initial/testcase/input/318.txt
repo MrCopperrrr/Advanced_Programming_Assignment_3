@@ -1,0 +1,13 @@
+INSERT al number
+RPRINT
+BEGIN
+INSERT am string
+RPRINT
+INSERT an number
+BEGIN
+INSERT ao string
+RPRINT
+END
+RPRINT
+END
+RPRINT

@@ -1,0 +1,3 @@
+INSERT b string
+INSERT a number
+ASSIGN b 'WJQKJOEX'

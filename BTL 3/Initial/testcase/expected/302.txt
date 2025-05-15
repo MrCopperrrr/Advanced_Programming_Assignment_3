@@ -1,0 +1,12 @@
+success
+a//1
+success
+a//1 b//2
+success
+a//1 b//2 c//3
+success
+a//1 b//2 d//2
+success
+a//1 e//1
+success
+f//0

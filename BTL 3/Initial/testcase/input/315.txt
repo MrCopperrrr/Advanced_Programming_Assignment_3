@@ -1,0 +1,18 @@
+BEGIN
+INSERT v string
+RPRINT
+BEGIN
+INSERT w number
+RPRINT
+BEGIN
+INSERT x string
+RPRINT
+END
+INSERT y number
+RPRINT
+END
+INSERT z string
+RPRINT
+END
+INSERT aa number
+RPRINT

@@ -1,0 +1,10 @@
+ASSIGN y 530819
+ASSIGN b 663340
+INSERT c string
+ASSIGN v z
+INSERT b number
+INSERT o string
+ASSIGN b o
+INSERT v number
+ASSIGN t 123abc$
+INSERT y string

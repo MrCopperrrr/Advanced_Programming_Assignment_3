@@ -1,0 +1,13 @@
+ASSIGN n 439118
+ASSIGN y 712770
+ASSIGN v c
+INSERT y string
+ASSIGN o p
+ASSIGN x 441990
+INSERT o number
+INSERT z string
+INSERT z number
+INSERT y string
+INSERT z number
+INSERT m string
+INSERT x string

@@ -1,0 +1,10 @@
+ASSIGN p 192874
+INSERT c number
+INSERT t string
+INSERT u string
+INSERT z number
+ASSIGN m 490226
+ASSIGN p 79497
+INSERT u number
+ASSIGN a #$
+INSERT v number

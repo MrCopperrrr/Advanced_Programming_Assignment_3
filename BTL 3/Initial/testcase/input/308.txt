@@ -1,0 +1,18 @@
+BEGIN
+INSERT g string
+PRINT
+BEGIN
+INSERT h number
+PRINT
+BEGIN
+INSERT i string
+PRINT
+END
+INSERT j number
+PRINT
+END
+INSERT k string
+PRINT
+END
+INSERT l number
+PRINT

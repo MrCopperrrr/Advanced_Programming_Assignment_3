@@ -1,0 +1,10 @@
+BEGIN
+BEGIN
+BEGIN
+INSERT a string
+END
+INSERT a number
+END
+INSERT a string
+END
+INSERT a number

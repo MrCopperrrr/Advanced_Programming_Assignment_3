@@ -1,0 +1,14 @@
+INSERT i number
+RPRINT
+BEGIN
+INSERT j string
+RPRINT
+BEGIN
+INSERT k string
+RPRINT
+END
+INSERT l number
+RPRINT
+END
+INSERT m string
+RPRINT

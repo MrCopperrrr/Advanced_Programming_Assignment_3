@@ -1,0 +1,9 @@
+INSERT m number
+INSERT m string
+INSERT a number
+INSERT m number
+INSERT y string
+INSERT y string
+INSERT m number
+INSERT t number
+INSERT z string

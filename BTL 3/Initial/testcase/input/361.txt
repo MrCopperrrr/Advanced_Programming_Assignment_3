@@ -1,0 +1,2 @@
+insert x string
+ASSIGN x 'abc'

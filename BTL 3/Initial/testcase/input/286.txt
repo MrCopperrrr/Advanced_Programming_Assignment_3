@@ -1,0 +1,15 @@
+ASSIGN b hello!
+ASSIGN b ()
+INSERT m number
+ASSIGN u 303619
+ASSIGN v x
+ASSIGN m c
+ASSIGN y 859104
+INSERT z number
+INSERT t string
+INSERT a string
+ASSIGN b 864679
+INSERT t number
+INSERT t string
+INSERT y string
+ASSIGN b p
